@@ -1,13 +1,15 @@
-# AlX React Props
+# alx-react 
 
-## Contents
 
-- How to create react components using functions
-- how to reuse Components
-- How to pass properties to components
-- How to use fragments
-- When to use a key to improve a loop's performance
-  
+
+### content
+
+1. [0x00-Webpack](https://github.com/hbapte/alx-react/tree/master/0x00-Webpack)
+2. [0x01-react_intro](https://github.com/hbapte/alx-react/tree/master/0x01-react_intro)
+3. [0x02-react_props](https://github.com/hbapte/alx-react/tree/master/0x02-react_props)
+4. [0x03-React_component](https://github.com/hbapte/alx-react/tree/master/0x03-React_component)
+5.
+
 
 ***
 
@@ -17,6 +19,6 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-hbapte-green)](https://www.linktr.ee/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)<br>
-> Date : April 21,2023
+> Date : April 24,2023
 
 ***
